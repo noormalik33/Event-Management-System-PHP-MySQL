@@ -1,48 +1,94 @@
-# Event-Management-System-PHP-MySQL
-A PHP &amp; MySQL based event registration system for college fests, with admin panel and user login support.
+# 🎉 Event Management System – PHP & MySQL
 
-A PHP xamp; MySQL based event registration system for college fests, with admin panel and user login support.
+A web-based **event registration system** developed using **PHP and MySQL**. This platform allows students to register for college fests or events with a secure login system. Admins can view and manage event registrations via a dedicated control panel.
 
-Things I code with
-npm html5 vue.js Django Flutter JavaScript Mysql postgresql Amazon_AWS Css Sass Styled Components git Heroku Docker angular MongoDB Nodejs Google Cloud Platform TypeScript
+---
 
-Projects We develop
-Vue JS
-Nuxt JS
-Python
-Django
-PHP and MYSQL
-Angular JS
-React JS
-AI/ML
-Event-site
-helps to register an users for on events conducted in college fests with simple logic with secured way
+## 📌 Features
 
-Installation
-Install XAMPP or WAMPP.
+- 👤 User Registration & Login System
+- 🧑‍💼 Admin Login with Full Control Panel
+- 📝 Event Registration for College Fests
+- 🔐 Secure Authentication Mechanism
+- 📋 View Registered Participants
+- 📁 Clean and Simple Codebase
 
-Open XAMPP Control panal and start [apache] and [mysql] .
+---
 
-Download project from github
+## 🛠️ Tech Stack
 
-extract files in C:\xampp\htdocs.
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Platform:** XAMPP / WAMP  
+- **Hosting:** Localhost (for development)
 
-open link localhost/phpmyadmin
+---
 
-click on new at side navbar.
+## 📦 Installation Guide
 
-give a database name as (eventsite) hit on create button.
+1. **Install XAMPP or WAMP**
 
-after creating database name click on import.
+2. **Start Apache & MySQL**
+   Open XAMPP Control Panel and start the following:
+   - ✅ Apache
+   - ✅ MySQL
 
-browse the file in directory[event-management/database/events.sql].
+3. **Clone the Project**
+   ```bash
+https://github.com/noormalik33/Event-Management-System-PHP-MySQL.git
+Place in XAMPP Directory
+Move the project folder to:
 
-after importing successfully.
 
-open any browser and type http://localhost/event-management-master.
+C:\xampp\htdocs\Event-Management-System-PHP-MySQL
+Create Database
 
-first register and then login
+Go to: http://localhost/phpmyadmin
 
-admin login details Email=admin@gmail.com and Password=123456789.
+Click New in the sidebar
 
-If you like my project hit a star button
+Enter database name: eventsite
+
+Click Create
+
+Import SQL File
+
+Select the newly created eventsite database
+
+Click Import
+
+Browse and select:
+event-management/database/events.sql
+
+Click Go
+
+Run the Application
+Open a browser and visit:
+
+http://localhost/Event-Management-System-PHP-MySQL
+Login Credentials
+
+Admin:
+
+Email: admin@gmail.com
+
+Password: 123456789
+
+Users: Register from the site
+
+ ## 👩‍💻 Author
+
+**Noor Malik**  
+IT Student  
+📍 Islamabad, Pakistan  
+📧 Email: noormalik56500@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
+
+
+
+## 👩‍💻 Team Member
+ **Ghulam Qadir**  
+ IT Student  
+📍 Rawalpindi, Pakistan  
+📧 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365/)
